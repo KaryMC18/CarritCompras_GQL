@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+credenciales
+
+# Temporary files
+*.tmp
+*.temp
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# GitHub Desktop specific
+*.orig
+
+# Other
+coverage/
